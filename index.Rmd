@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "ICD-10-BE FY 2021 Codeerhandboek"
+author: "Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
