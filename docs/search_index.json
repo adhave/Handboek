@@ -1,9 +1,5 @@
 [
-["index.html", "ICD-10-BE FY 2021 Codeerhandboek 1 Down the rabbit-hole", " ICD-10-BE FY 2021 Codeerhandboek Federale Overheidsdienst Volksgezondheid, Veiligheid van de Voedselketen en Leefmilieu 2021-03-31 1 Down the rabbit-hole "],
+["index.html", "04-rabbit 1 Down the rabbit-hole", " 04-rabbit Cel Standaarden - A. D’Havé 31/3/2021 1 Down the rabbit-hole "],
 ["the-pool-of-tears.html", "2 The pool of tears", " 2 The pool of tears "],
-<<<<<<< HEAD
-["a-caucus-race-and-a-long-tale.html", "3 A caucus-race and a long tale", " 3 A caucus-race and a long tale Very nice! "]
-=======
-["a-caucus-race-and-a-long-tale.html", "3 A caucus-race and a long tale", " 3 A caucus-race and a long tale "]
->>>>>>> c642afe49b75af19293be0fc2b7d54b90e46d2ae
+["a-caucus-race-and-a-long-tale.html", "3 A caucus-race and a long tale 3.1 R Markdown 3.2 Including Plots", " 3 A caucus-race and a long tale Very nice! 3.1 R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com. When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this: summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00 3.2 Including Plots You can also embed plots, for example: Note that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot. "]
 ]
